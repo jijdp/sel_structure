@@ -1,0 +1,1 @@
+I use pip install chromedriver-py==120.0.6099.217 for my version since the driver in the website is not release for this chrome version yet.
